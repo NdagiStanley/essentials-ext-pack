@@ -1,12 +1,12 @@
 {
     "name": "essentials-ext-pack",
     "displayName": "Essentials Ext Pack",
-    "description": "An extension pack with the bare essentials",
-    "version": "0.0.1",
+    "description": "An extension pack with the bare minimum (essentials)",
+    "version": "0.0.2",
     "publisher": "ndagistanley",
     "repository": {
       "type": "git",
-      "url": "https://github.com/NdagiStanley/essential-ext-pack"
+      "url": "https://github.com/NdagiStanley/essentials-ext-pack"
     },
     "engines": {
         "vscode": "^1.66.0"
