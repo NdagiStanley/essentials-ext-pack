@@ -9,3 +9,5 @@
 )
 
 An extension pack with the bare minimum (essentials)
+
+The `vsix` files can be downloaded [here](https://marketplace.visualstudio.com/items?itemName=NdagiStanley.essentials-ext-pack&ssr=false#version-history)
