@@ -2,7 +2,7 @@
     "name": "essentials-ext-pack",
     "displayName": "Essentials Ext Pack",
     "description": "An extension pack with the bare minimum (essentials)",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "ndagistanley",
     "repository": {
       "type": "git",
@@ -15,26 +15,24 @@
         "Extension Packs"
     ],
     "extensionPack": [
-        "eamodio.gitlens",
-        "PKief.material-icon-theme",
-        "EditorConfig.EditorConfig",
-        "streetsidesoftware.code-spell-checker",
-        "Tyriar.sort-lines",
-        "wayou.vscode-todo-highlight",
-        "WakaTime.vscode-wakatime",
-        "liviuschera.noctis",
-        "mrmlnc.vscode-duplicate",
         "christian-kohler.path-intellisense",
         "DavidAnson.vscode-markdownlint",
         "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
         "esbenp.prettier-vscode",
         "formulahendry.auto-close-tag",
         "formulahendry.auto-rename-tag",
-        "ndagistanley.markdown-ext-pack",
-        "ndagistanley.vuejs-ext-pack",
-        "Shan.code-settings-sync",
+        "liviuschera.noctis",
         "mechatroner.rainbow-csv",
+        "mrmlnc.vscode-duplicate",
+        "PKief.material-icon-theme",
+        "Shan.code-settings-sync",
+        "streetsidesoftware.code-spell-checker",
+        "Tyriar.sort-lines",
         "vitaliymaz.vscode-svg-previewer",
-        "vsls-contrib.gistfs"
+        "vsls-contrib.gistfs",
+        "WakaTime.vscode-wakatime",
+        "wayou.vscode-todo-highlight"
     ]
 }
