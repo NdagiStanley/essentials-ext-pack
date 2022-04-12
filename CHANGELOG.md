@@ -16,7 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
-## [0.0.4] - 2022-04-12
+## [0.0.5] - 2022-04-12
 ### Added
 - 1 extension
 ### Changed
@@ -40,7 +40,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - License
 
 <!-- [Unreleased]: https://github.com/NdagiStanley/essentials-ext-pack/compare/v0.0.4...HEAD -->
-[0.0.4]: https://github.com/NdagiStanley/essentials-ext-pack/compare/v0.0.3...v0.0.4
+[0.0.4]: https://github.com/NdagiStanley/essentials-ext-pack/compare/v0.0.3...v0.0.5
 [0.0.3]: https://github.com/NdagiStanley/essentials-ext-pack/compare/v0.0.2...v0.0.3
 [0.0.2]: https://github.com/NdagiStanley/essentials-ext-pack/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/NdagiStanley/essentials-ext-pack/releases/tag/v0.0.1
