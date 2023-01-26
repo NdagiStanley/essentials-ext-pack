@@ -1,0 +1,34 @@
+{
+    "manifestVersion": 1,
+    "id": "essentials-ext-pack",
+    "version": "0.0.8",
+    "name": "Essentials Ext Pack",
+    "publisher": "ndagistanley",
+    "targets": [
+        {
+            "id": "Microsoft.VisualStudio.Services"
+        }
+    ],
+    "badges": [
+        {
+            "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.essentials-ext-pack",
+            "uri": "https://vsmarketplacebadges.dev/version/NdagiStanley.essentials-ext-pack.svg",
+            "description": "Version"
+        },
+        {
+            "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.essentials-ext-pack&ssr=false#review-details",
+            "uri": "https://vsmarketplacebadges.dev/rating-star/NdagiStanley.essentials-ext-pack.svg",
+            "description": "Stars"
+        },
+        {
+            "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.essentials-ext-pack",
+            "uri": "https://vsmarketplacebadges.dev/downloads/NdagiStanley.essentials-ext-pack.svg",
+            "description": "Downloads"
+        },
+        {
+            "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.essentials-ext-pack",
+            "uri": "https://vsmarketplacebadges.dev/installs/NdagiStanley.essentials-ext-pack.svg",
+            "description": "Installs"
+        }
+    ]
+}

@@ -16,6 +16,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
+## [0.0.8] - 2022-01-26
+### Changed
+- CHANGELOG
+- CircleCI config (so that token is context based per org)
+- README (Remove badges)
+### Added
+- `vss-extension.json`
+
 ## [0.0.7] - 2022-01-26
 ### Changed
 - CHANGELOG
