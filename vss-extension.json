@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "essentials-ext-pack",
-    "version": "0.0.8",
+    "version": "0.0.9",
     "name": "Essentials Ext Pack",
     "publisher": "ndagistanley",
     "targets": [
@@ -9,6 +9,13 @@
             "id": "Microsoft.VisualStudio.Services"
         }
     ],
+    "icons": {
+        "default": "images/icon.png"
+    },
+    "branding": {
+        "color": "rgb(00, 80, 80)",
+        "theme": "dark"
+    },
     "badges": [
         {
             "href": "https://marketplace.visualstudio.com/items?itemName=NdagiStanley.essentials-ext-pack",

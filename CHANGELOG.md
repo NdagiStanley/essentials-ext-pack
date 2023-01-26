@@ -16,6 +16,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 -->
 
+## [0.0.9] - 2022-01-26
+### Changed
+- CHANGELOG
+- `vss-extension.json`
+### Removed
+- 2 extensions
+
 ## [0.0.8] - 2022-01-26
 ### Changed
 - CHANGELOG

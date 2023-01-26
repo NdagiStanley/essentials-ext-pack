@@ -11,9 +11,9 @@ The `vsix` files can be downloaded [here](https://marketplace.visualstudio.com/i
 1. Make changes
 2. Commit changes
 3. Update `CHANGELOG.md`
-4. Update version in `package.json` (Format: `v<major>.<minor>.<patch>)
+4. Update version in `package.json` (Format: `v<major>.<minor>.<patch>`)
 5. Commit changes
-6. Tag commit (Format: `v<major>.<minor>.<patch>)
+6. Tag commit (Format: `v<major>.<minor>.<patch>`)
 7. Push commits to remote
 8. Push tag to remote (`git push origin <tag name>`)
 
@@ -24,7 +24,7 @@ Delete tags:
 - local tag - `git tag -d <tag name>`
 - remote tag - `git push --delete origin <tag name>`
 
-Unpublish 
+Unpublish:
 
 - Extension version - Use the [web](https://marketplace.visualstudio.com/manage/publishers/ndagiSTANLEY)
 - Extension - `vsce unpublish (publisher name).(extension name)`
