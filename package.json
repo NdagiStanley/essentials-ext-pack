@@ -2,7 +2,7 @@
     "name": "essentials-ext-pack",
     "displayName": "Essentials Ext Pack",
     "description": "An extension pack with the bare minimum (essentials)",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "publisher": "ndagistanley",
     "repository": {
       "type": "git",

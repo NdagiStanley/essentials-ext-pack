@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "essentials-ext-pack",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "name": "Essentials Ext Pack",
     "publisher": "ndagistanley",
     "targets": [
